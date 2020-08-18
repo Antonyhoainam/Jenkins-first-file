@@ -1,4 +1,4 @@
-#Jenkinsfile
+//Jenkinsfile
 pineline {
 	agent any
 	stage ('Build') {
